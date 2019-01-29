@@ -1,3 +1,5 @@
+'use strict';
+
 var dogs = prompt('How many dogs are good bois?');
 console.log(dogs);
 console.log('There are at least ' + dogs + ' that are good bois');
